@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">FlightSearch</string>
+    <string name="app_name">Поиск рейсов</string>
+    <string name="search_hint">Код IATA или название аэропорта</string>
+    <string name="search_button">Найти</string>
+    <string name="suggestions_title">Подходящие аэропорты</string>
+    <string name="suggestions_empty">Ничего не найдено. Проверьте код или название.</string>
+    <string name="flights_title">Рейсы из %1$s</string>
+    <string name="flights_empty">Из этого аэропорта нет рейсов.</string>
+    <string name="favorites_title">Избранные рейсы</string>
+    <string name="favorites_empty">Пока нет избранных рейсов. Найдите аэропорт вылета.</string>
+    <string name="flight_id">Рейс %1$s</string>
+    <string name="airport_line">%1$s — %2$s</string>
+    <string name="favorite_line">%1$s → %2$s</string>
+    <string name="add_favorite">Добавить в избранное</string>
+    <string name="remove_favorite">Удалить из избранного</string>
+    <string name="database_error">Не удалось прочитать базу: %1$s</string>
 </resources>
